@@ -1,0 +1,39 @@
+MenuBar=Disabled
+
+[ContentDisplay]
+RecursiveDirectorySizeLimit=20
+UsePermissionsFormat=CombinedFormat
+UseShortRelativeDates=false
+
+[ContextMenu]
+ShowAddToPlaces=false
+ShowCopyToOtherSplitView=false
+ShowMoveToOtherSplitView=false
+
+[DetailsMode]
+LeftPadding=0
+PreviewSize=144
+RightPadding=0
+
+[General]
+OpenNewTabAfterLastTab=true
+ShowStatusBar=FullWidth
+ShowToolTips=true
+Version=202
+ViewPropsTimestamp=2025,12,26,23,35,22.224
+
+[IconsMode]
+PreviewSize=144
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=audiothumbnail,glycin-heif,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,glycin-image-rs,jpegthumbnail,glycin-jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,quithumbnail,rawthumbnail,glycin-svg,svgthumbnail,ffmpegthumbs
+
+[UiSettings]
+ColorScheme=PNCd2
