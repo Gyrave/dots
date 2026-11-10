@@ -1,7 +1,7 @@
 set number!
 set ignorecase
 set hlsearch
-set syntax
+syntax on
 set noswapfile
 set nobackup
 set nowb
